@@ -1,0 +1,7 @@
+C:\Users\osknyl0221\source\repos\ServerMinesweeper\ServerMinesweeper\bin\Debug\ServerMinesweeper.exe.config
+C:\Users\osknyl0221\source\repos\ServerMinesweeper\ServerMinesweeper\bin\Debug\ServerMinesweeper.exe
+C:\Users\osknyl0221\source\repos\ServerMinesweeper\ServerMinesweeper\bin\Debug\ServerMinesweeper.pdb
+C:\Users\osknyl0221\source\repos\ServerMinesweeper\ServerMinesweeper\obj\Debug\ServerMinesweeper.csprojAssemblyReference.cache
+C:\Users\osknyl0221\source\repos\ServerMinesweeper\ServerMinesweeper\obj\Debug\ServerMinesweeper.csproj.CoreCompileInputs.cache
+C:\Users\osknyl0221\source\repos\ServerMinesweeper\ServerMinesweeper\obj\Debug\ServerMinesweeper.exe
+C:\Users\osknyl0221\source\repos\ServerMinesweeper\ServerMinesweeper\obj\Debug\ServerMinesweeper.pdb
